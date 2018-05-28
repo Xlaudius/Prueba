@@ -26,7 +26,17 @@
 .container {
 }
 
+#hnosotros{
+  font-size: 72px;
+  font-weight: bold;
+  color: white;
+}
+
 #pnoticias{
+  text-align: justify;
+}
+
+#pnosotros{
   text-align: justify;
 }
 
