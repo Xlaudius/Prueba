@@ -1,4 +1,4 @@
-.jumbotron {
+#jumbo1 {
     background-image: url("./resources/car1.jpg");
     background-color: #17234E;
     margin-bottom: 0;
@@ -8,6 +8,19 @@
     -webkit-background-size: cover;
     background-size: cover;
     color: white;
+}
+
+#jumbo2 {
+    background-image: url("./resources/car2.jpg");
+    background-color: #17234E;
+    margin-bottom: 0;
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: black;
+    height: 600px;
 }
 
 .container {
