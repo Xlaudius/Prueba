@@ -26,6 +26,10 @@
 .container {
 }
 
+#pnoticias{
+  text-align: justify;
+}
+
 #navimg{
   width: 10%;
   height: 8%;
